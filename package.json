@@ -1,0 +1,14 @@
+{
+  "name": "f-keller-github-rpg-map",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Mapa RPG pixelado do calendário de contribuições com encontros de criaturas-tecnologia e Octocat.",
+  "scripts": {
+    "generate": "node scripts/generate-rpg.mjs",
+    "preview": "node scripts/generate-rpg.mjs --demo"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Fabricio Keller</h1>
 
-<!--
-**F-Keller/F-Keller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor de sistemas, automações e aplicações web.
+</p>
 
-Here are some ideas to get you started:
+## 🗺️ CodeMon Adventure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F-Keller/F-Keller/main/assets/github-rpg-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F-Keller/F-Keller/main/assets/github-rpg.svg">
+  <img alt="Mapa RPG das contribuições de Fabricio Keller" src="https://raw.githubusercontent.com/F-Keller/F-Keller/main/assets/github-rpg.svg" width="100%">
+</picture>
+
+<p align="center">
+  <sub>O programador percorre o calendário. Encontros pseudoaleatórios revelam criaturas inspiradas nas tecnologias predominantes dos commits, e o Octocat luta como companheiro.</sub>
+</p>
