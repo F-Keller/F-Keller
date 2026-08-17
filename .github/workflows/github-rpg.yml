@@ -1,0 +1,59 @@
+name: Atualizar mapa RPG de contribuições
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Todos os dias às 03:23 UTC, equivalente a 00:23 no horário de Brasília.
+    - cron: "23 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - ".github/workflows/github-rpg.yml"
+      - "package.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-rpg-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Gerar mapa, encontros e criaturas
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v6
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Gerar versões clara e escura
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Opcional: PAT para detalhar contribuições privadas.
+          RPG_GRAPH_TOKEN: ${{ secrets.RPG_GRAPH_TOKEN }}
+        run: node scripts/generate-rpg.mjs
+
+      - name: Publicar os arquivos atualizados
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/github-rpg.svg assets/github-rpg-dark.svg assets/github-rpg-data.json; then
+            echo "O mapa RPG já está atualizado."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-rpg.svg assets/github-rpg-dark.svg assets/github-rpg-data.json
+          git commit -m "chore: atualiza mapa RPG de contribuições"
+          git push
