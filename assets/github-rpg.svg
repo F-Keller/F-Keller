@@ -30,13 +30,13 @@
   <g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
     <text x="32" y="41" fill="#253025" font-size="18" font-weight="800" letter-spacing="1">F-KELLER · CODEMON ADVENTURE</text>
     <text x="32" y="60" fill="#647064" font-size="10">O CALENDÁRIO VIROU UM MAPA RPG · ENCONTROS GERADOS PELOS COMMITS</text>
-    <text x="928" y="41" fill="#647064" font-size="9" text-anchor="end" letter-spacing="1">PRÉVIA DEMONSTRATIVA</text>
+    <text x="928" y="41" fill="#647064" font-size="9" text-anchor="end" letter-spacing="1">ATUALIZADO PELO GITHUB ACTIONS</text>
 
     <g clip-path="url(#map-window)">
       <rect x="22" y="76" width="916" height="244" fill="url(#grass-pattern)" />
       <rect x="22" y="76" width="916" height="24" fill="url(#water-pattern)" />
       <rect x="22" y="296" width="916" height="24" fill="url(#water-pattern)" />
-      <g transform="translate(28 88)">
+      <g transform="translate(28 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -46,12 +46,12 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(56 88)">
+  </g><g transform="translate(56 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(68 288)">
+  </g><g transform="translate(68 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -61,12 +61,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(112 92)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(124 288)">
+  </g><g transform="translate(96 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -86,7 +81,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(180 288)">
+  </g><g transform="translate(180 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -96,32 +91,12 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(208 284)">
+  </g><g transform="translate(208 288)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(224 92)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(236 284)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(280 88)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(292 288)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(308 92)">
+  </g><g transform="translate(308 88)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -136,12 +111,12 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(348 288)">
+  </g><g transform="translate(348 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(364 92)">
+  </g><g transform="translate(364 88)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -156,27 +131,22 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(420 88)">
+  </g><g transform="translate(404 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(432 288)">
+  </g><g transform="translate(448 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(448 88)">
+  </g><g transform="translate(460 284)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(460 288)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(476 92)">
+  </g><g transform="translate(476 88)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -186,7 +156,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(504 88)">
+  </g><g transform="translate(504 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -196,17 +166,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(532 92)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(544 288)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(560 92)">
+  </g><g transform="translate(560 88)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -216,7 +176,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(588 88)">
+  </g><g transform="translate(588 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -226,17 +186,12 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(616 88)">
+  </g><g transform="translate(616 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(628 288)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(644 88)">
+  </g><g transform="translate(644 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -246,7 +201,7 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(672 92)">
+  </g><g transform="translate(672 88)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -261,62 +216,42 @@
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(712 284)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
   </g><g transform="translate(756 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(784 88)">
+  </g><g transform="translate(768 288)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(796 284)">
+  </g><g transform="translate(784 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(812 88)">
+  </g><g transform="translate(796 288)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(824 288)">
+  </g><g transform="translate(840 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(840 88)">
+  </g><g transform="translate(852 288)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(852 284)">
+  </g><g transform="translate(868 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
     <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(896 88)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(908 284)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(924 88)">
-    <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
-    <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
-    <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
-    <rect x="7" y="4" width="4" height="4" fill="#d5e9a7" opacity=".65" />
-  </g><g transform="translate(936 288)">
+  </g><g transform="translate(924 92)">
     <rect x="7" y="13" width="5" height="8" fill="#b28e4f" />
     <rect x="2" y="6" width="15" height="12" fill="#244b2b" />
     <rect x="5" y="2" width="10" height="15" fill="#3e7840" />
@@ -324,9 +259,9 @@
   </g>
       <rect x="42" y="109" width="876" height="144" rx="8" fill="#d5e9a7" opacity=".38" />
       
-    <polyline points="63,181 79,181 95,181 111,165 127,149 143,165 159,165 175,165 191,165 207,149 223,149 239,165 255,149 271,133 287,133 303,133 319,149 335,133 351,133 367,133 383,133 399,133 415,133 431,133 447,149 463,165 479,165 495,165 511,149 527,165 543,165 559,165 575,149 591,149 607,149 623,149 639,165 655,165 671,165 687,149 703,149 719,149 735,133 751,133 767,133 783,149 799,149 815,149 831,149 847,149 863,149 879,165 895,165" fill="none" stroke="#b28e4f" stroke-width="10" stroke-linecap="square" stroke-linejoin="round" opacity=".7" />
-    <polyline points="63,181 79,181 95,181 111,165 127,149 143,165 159,165 175,165 191,165 207,149 223,149 239,165 255,149 271,133 287,133 303,133 319,149 335,133 351,133 367,133 383,133 399,133 415,133 431,133 447,149 463,165 479,165 495,165 511,149 527,165 543,165 559,165 575,149 591,149 607,149 623,149 639,165 655,165 671,165 687,149 703,149 719,149 735,133 751,133 767,133 783,149 799,149 815,149 831,149 847,149 863,149 879,165 895,165" fill="none" stroke="#e2c67d" stroke-width="7" stroke-linecap="square" stroke-linejoin="round" />
-    <polyline points="63,181 79,181 95,181 111,165 127,149 143,165 159,165 175,165 191,165 207,149 223,149 239,165 255,149 271,133 287,133 303,133 319,149 335,133 351,133 367,133 383,133 399,133 415,133 431,133 447,149 463,165 479,165 495,165 511,149 527,165 543,165 559,165 575,149 591,149 607,149 623,149 639,165 655,165 671,165 687,149 703,149 719,149 735,133 751,133 767,133 783,149 799,149 815,149 831,149 847,149 863,149 879,165 895,165" fill="none" stroke="#f5efd4" stroke-width="1" stroke-dasharray="2 5" opacity=".55" />
+    <polyline points="63,181 79,197 95,213 111,197 127,181 143,181 159,181 175,181 191,181 207,181 223,197 239,213 255,197 271,181 287,165 303,149 319,133 335,133 351,133 367,133 383,133 399,133 415,133 431,149 447,149 463,149 479,133 495,133 511,149 527,149 543,149 559,149 575,133 591,133 607,133 623,133 639,133 655,133 671,149 687,165 703,165 719,165 735,165 751,165 767,165 783,165 799,165 815,149 831,149 847,165 863,149 879,165 895,149" fill="none" stroke="#b28e4f" stroke-width="10" stroke-linecap="square" stroke-linejoin="round" opacity=".7" />
+    <polyline points="63,181 79,197 95,213 111,197 127,181 143,181 159,181 175,181 191,181 207,181 223,197 239,213 255,197 271,181 287,165 303,149 319,133 335,133 351,133 367,133 383,133 399,133 415,133 431,149 447,149 463,149 479,133 495,133 511,149 527,149 543,149 559,149 575,133 591,133 607,133 623,133 639,133 655,133 671,149 687,165 703,165 719,165 735,165 751,165 767,165 783,165 799,165 815,149 831,149 847,165 863,149 879,165 895,149" fill="none" stroke="#e2c67d" stroke-width="7" stroke-linecap="square" stroke-linejoin="round" />
+    <polyline points="63,181 79,197 95,213 111,197 127,181 143,181 159,181 175,181 191,181 207,181 223,197 239,213 255,197 271,181 287,165 303,149 319,133 335,133 351,133 367,133 383,133 399,133 415,133 431,149 447,149 463,149 479,133 495,133 511,149 527,149 543,149 559,149 575,133 591,133 607,133 623,133 639,133 655,133 671,149 687,165 703,165 719,165 735,165 751,165 767,165 783,165 799,165 815,149 831,149 847,165 863,149 879,165 895,149" fill="none" stroke="#f5efd4" stroke-width="1" stroke-dasharray="2 5" opacity=".55" />
       
     <g>
       <rect x="56" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -359,10 +294,10 @@
       <rect x="59" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="56" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-08-22: 10 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="56" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-22: sem contribuições</title>
       </rect>
-      <rect x="59" y="211" width="8" height="6" fill="#3e7840" /><rect x="61" y="209" width="4" height="2" fill="#244b2b" /><rect x="62" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="59" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="56" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -371,34 +306,34 @@
       <rect x="59" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-08-24: 17 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="72" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-24: sem contribuições</title>
       </rect>
-      <path d="M 79 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="78" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="75" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-08-25: 4 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="72" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-25: sem contribuições</title>
       </rect>
-      <rect x="75" y="145" width="3" height="3" fill="#ffffff" /><rect x="76" y="146" width="1" height="1" fill="#e7b843" /><path d="M 82 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="75" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-08-26: 12 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="72" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-26: sem contribuições</title>
       </rect>
-      <path d="M 79 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="78" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="75" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-08-27: 1 contribuição · Python · F-Keller/demo-python</title>
+      <rect x="72" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-27: sem contribuições</title>
       </rect>
-      <path d="M 75 185 l 2 -4 l 1 4 M 81 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="75" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-08-28: 9 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="72" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-28: sem contribuições</title>
       </rect>
-      <path d="M 79 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="78" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="75" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="72" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -407,40 +342,40 @@
       <rect x="75" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="72" y="222" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-08-30: 6 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="72" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-30: sem contribuições</title>
       </rect>
-      <rect x="75" y="225" width="3" height="3" fill="#ffffff" /><rect x="76" y="226" width="1" height="1" fill="#e7b843" /><path d="M 82 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="75" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="88" y="126" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-08-31: 5 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="88" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-08-31: sem contribuições</title>
       </rect>
-      <rect x="91" y="131" width="8" height="6" fill="#3e7840" /><rect x="93" y="129" width="4" height="2" fill="#244b2b" /><rect x="94" y="137" width="2" height="2" fill="#b28e4f" />
+      <rect x="91" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="88" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-01: 8 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="88" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-01: sem contribuições</title>
       </rect>
-      <path d="M 95 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="94" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="91" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="88" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-02: 15 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="88" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-02: sem contribuições</title>
       </rect>
-      <path d="M 95 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="94" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="91" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="88" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-09-03: 1 contribuição · MySQL · F-Keller/demo-mysql</title>
+      <rect x="88" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-03: sem contribuições</title>
       </rect>
-      <path d="M 91 185 l 2 -4 l 1 4 M 97 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="91" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="88" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-04: 7 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="88" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-04: sem contribuições</title>
       </rect>
-      <path d="M 95 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="94" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="91" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="88" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -455,16 +390,16 @@
       <rect x="91" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="104" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-09-07: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="104" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-07: sem contribuições</title>
       </rect>
-      <path d="M 107 137 l 2 -4 l 1 4 M 113 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="107" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="104" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-08: 20 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="104" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-08: sem contribuições</title>
       </rect>
-      <path d="M 111 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="110" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="107" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="104" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -473,22 +408,22 @@
       <rect x="107" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="104" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-10: 7 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="104" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-10: sem contribuições</title>
       </rect>
-      <path d="M 111 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="110" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="107" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="104" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-11: 14 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="104" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-11: sem contribuições</title>
       </rect>
-      <path d="M 111 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="110" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="107" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="104" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-12: 19 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="104" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-12: sem contribuições</title>
       </rect>
-      <path d="M 111 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="110" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="107" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="104" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -503,10 +438,10 @@
       <rect x="123" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="120" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-09-15: 3 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="120" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-15: sem contribuições</title>
       </rect>
-      <path d="M 123 153 l 2 -4 l 1 4 M 129 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="123" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="120" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -515,10 +450,10 @@
       <rect x="123" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="120" y="174" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-17: 6 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="120" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-17: sem contribuições</title>
       </rect>
-      <rect x="123" y="179" width="8" height="6" fill="#3e7840" /><rect x="125" y="177" width="4" height="2" fill="#244b2b" /><rect x="126" y="185" width="2" height="2" fill="#b28e4f" />
+      <rect x="123" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="120" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -533,10 +468,10 @@
       <rect x="123" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="120" y="222" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-20: 5 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="120" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-20: sem contribuições</title>
       </rect>
-      <rect x="123" y="227" width="8" height="6" fill="#3e7840" /><rect x="125" y="225" width="4" height="2" fill="#244b2b" /><rect x="126" y="233" width="2" height="2" fill="#b28e4f" />
+      <rect x="123" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="136" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -551,16 +486,16 @@
       <rect x="139" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="136" y="158" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-23: 3 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="136" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-23: sem contribuições</title>
       </rect>
-      <rect x="139" y="163" width="8" height="6" fill="#3e7840" /><rect x="141" y="161" width="4" height="2" fill="#244b2b" /><rect x="142" y="169" width="2" height="2" fill="#b28e4f" />
+      <rect x="139" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="136" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-24: 15 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="136" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-24: sem contribuições</title>
       </rect>
-      <path d="M 143 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="142" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="139" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="136" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -587,34 +522,34 @@
       <rect x="155" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="152" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-29: 12 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="152" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-29: sem contribuições</title>
       </rect>
-      <path d="M 159 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="158" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="155" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="152" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-09-30: 4 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="152" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-09-30: sem contribuições</title>
       </rect>
-      <path d="M 159 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="158" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="155" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="152" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-10-01: 2 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="152" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-01: sem contribuições</title>
       </rect>
-      <path d="M 155 185 l 2 -4 l 1 4 M 161 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="155" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="152" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-02: 11 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="152" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-02: sem contribuições</title>
       </rect>
-      <path d="M 159 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="158" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="155" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="152" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-03: 11 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="152" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-03: sem contribuições</title>
       </rect>
-      <path d="M 159 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="158" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="155" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="152" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -629,16 +564,16 @@
       <rect x="171" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="168" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-10-06: 4 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="168" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-06: sem contribuições</title>
       </rect>
-      <path d="M 171 153 l 2 -4 l 1 4 M 177 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="171" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="168" y="158" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-07: 5 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="168" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-07: sem contribuições</title>
       </rect>
-      <rect x="171" y="163" width="8" height="6" fill="#3e7840" /><rect x="173" y="161" width="4" height="2" fill="#244b2b" /><rect x="174" y="169" width="2" height="2" fill="#b28e4f" />
+      <rect x="171" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="168" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -647,16 +582,16 @@
       <rect x="171" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="168" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-10-09: 5 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="168" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-09: sem contribuições</title>
       </rect>
-      <path d="M 171 201 l 2 -4 l 1 4 M 177 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="171" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="168" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-10: 15 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="168" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-10: sem contribuições</title>
       </rect>
-      <rect x="171" y="211" width="8" height="6" fill="#3e7840" /><rect x="173" y="209" width="4" height="2" fill="#244b2b" /><rect x="174" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="171" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="168" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -665,22 +600,22 @@
       <rect x="171" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="184" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-12: 17 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="184" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-12: sem contribuições</title>
       </rect>
-      <path d="M 191 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="190" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="187" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="184" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-10-13: 5 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="184" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-13: sem contribuições</title>
       </rect>
-      <path d="M 187 153 l 2 -4 l 1 4 M 193 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="187" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="184" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-10-14: 10 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="184" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-14: sem contribuições</title>
       </rect>
-      <rect x="187" y="161" width="3" height="3" fill="#ffffff" /><rect x="188" y="162" width="1" height="1" fill="#e7b843" /><path d="M 194 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="187" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="184" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -695,16 +630,16 @@
       <rect x="187" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="184" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-17: 9 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="184" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-17: sem contribuições</title>
       </rect>
-      <rect x="187" y="211" width="8" height="6" fill="#3e7840" /><rect x="189" y="209" width="4" height="2" fill="#244b2b" /><rect x="190" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="187" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="184" y="222" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-10-18: 8 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="184" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-18: sem contribuições</title>
       </rect>
-      <rect x="187" y="225" width="3" height="3" fill="#ffffff" /><rect x="188" y="226" width="1" height="1" fill="#e7b843" /><path d="M 194 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="187" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="200" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -713,10 +648,10 @@
       <rect x="203" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="200" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-20: 15 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="200" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-20: sem contribuições</title>
       </rect>
-      <rect x="203" y="147" width="8" height="6" fill="#3e7840" /><rect x="205" y="145" width="4" height="2" fill="#244b2b" /><rect x="206" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="203" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="200" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -731,16 +666,16 @@
       <rect x="203" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="200" y="190" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-23: 5 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="200" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-23: sem contribuições</title>
       </rect>
-      <rect x="203" y="195" width="8" height="6" fill="#3e7840" /><rect x="205" y="193" width="4" height="2" fill="#244b2b" /><rect x="206" y="201" width="2" height="2" fill="#b28e4f" />
+      <rect x="203" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="200" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-10-24: 1 contribuição · PHP · F-Keller/demo-php</title>
+      <rect x="200" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-24: sem contribuições</title>
       </rect>
-      <path d="M 203 217 l 2 -4 l 1 4 M 209 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="203" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="200" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -755,10 +690,10 @@
       <rect x="219" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="216" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-27: 8 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="216" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-27: sem contribuições</title>
       </rect>
-      <path d="M 223 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="222" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="219" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="216" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -779,10 +714,10 @@
       <rect x="219" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="216" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-10-31: 14 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="216" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-10-31: sem contribuições</title>
       </rect>
-      <rect x="219" y="211" width="8" height="6" fill="#3e7840" /><rect x="221" y="209" width="4" height="2" fill="#244b2b" /><rect x="222" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="219" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="216" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -803,10 +738,10 @@
       <rect x="235" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="232" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-11-04: 12 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="232" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-11-04: sem contribuições</title>
       </rect>
-      <path d="M 239 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="238" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="235" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="232" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -821,22 +756,22 @@
       <rect x="235" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="232" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2025-11-07: sem contribuições</title>
+      <rect x="232" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2025-11-07: 1 contribuição · TypeScript · atividade privada ou sem linguagem detectada</title>
       </rect>
-      <rect x="235" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 235 217 l 2 -4 l 1 4 M 241 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
-      <rect x="232" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2025-11-08: sem contribuições</title>
+      <rect x="232" y="222" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2025-11-08: 1 contribuição · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
-      <rect x="235" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 235 233 l 2 -4 l 1 4 M 241 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
-      <rect x="248" y="126" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-11-09: 9 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="248" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-11-09: sem contribuições</title>
       </rect>
-      <rect x="251" y="129" width="3" height="3" fill="#ffffff" /><rect x="252" y="130" width="1" height="1" fill="#e7b843" /><path d="M 258 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="251" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="248" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -875,10 +810,10 @@
       <rect x="251" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="264" y="126" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-11-16: 2 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="264" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-11-16: sem contribuições</title>
       </rect>
-      <rect x="267" y="129" width="3" height="3" fill="#ffffff" /><rect x="268" y="130" width="1" height="1" fill="#e7b843" /><path d="M 274 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="267" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="264" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -899,10 +834,10 @@
       <rect x="267" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="264" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-11-20: 4 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="264" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-11-20: sem contribuições</title>
       </rect>
-      <path d="M 267 201 l 2 -4 l 1 4 M 273 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="267" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="264" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -959,10 +894,10 @@
       <rect x="283" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="296" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2025-11-30: 2 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="296" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-11-30: sem contribuições</title>
       </rect>
-      <path d="M 299 137 l 2 -4 l 1 4 M 305 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="299" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="296" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -971,16 +906,16 @@
       <rect x="299" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="296" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-02: 4 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="296" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-02: sem contribuições</title>
       </rect>
-      <path d="M 303 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="302" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="299" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="296" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-03: 11 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="296" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-03: sem contribuições</title>
       </rect>
-      <path d="M 303 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="302" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="299" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="296" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1007,16 +942,16 @@
       <rect x="315" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="312" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-08: 20 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="312" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-08: sem contribuições</title>
       </rect>
-      <path d="M 319 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="318" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="315" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="312" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-09: 14 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="312" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-09: sem contribuições</title>
       </rect>
-      <path d="M 319 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="318" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="315" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="312" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1043,10 +978,10 @@
       <rect x="315" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="328" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-14: 6 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="328" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-14: sem contribuições</title>
       </rect>
-      <path d="M 335 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="334" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="331" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="328" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1061,22 +996,22 @@
       <rect x="331" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="328" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-17: 14 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="328" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-17: sem contribuições</title>
       </rect>
-      <path d="M 335 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="334" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="331" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="328" y="190" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-18: 10 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="328" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-18: sem contribuições</title>
       </rect>
-      <rect x="331" y="195" width="8" height="6" fill="#3e7840" /><rect x="333" y="193" width="4" height="2" fill="#244b2b" /><rect x="334" y="201" width="2" height="2" fill="#b28e4f" />
+      <rect x="331" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="328" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2025-12-19: 9 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="328" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-19: sem contribuições</title>
       </rect>
-      <rect x="331" y="209" width="3" height="3" fill="#ffffff" /><rect x="332" y="210" width="1" height="1" fill="#e7b843" /><path d="M 338 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="331" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="328" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1091,16 +1026,16 @@
       <rect x="347" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="344" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-22: 5 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="344" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-22: sem contribuições</title>
       </rect>
-      <rect x="347" y="147" width="8" height="6" fill="#3e7840" /><rect x="349" y="145" width="4" height="2" fill="#244b2b" /><rect x="350" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="347" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="344" y="158" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-23: 10 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="344" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-23: sem contribuições</title>
       </rect>
-      <rect x="347" y="163" width="8" height="6" fill="#3e7840" /><rect x="349" y="161" width="4" height="2" fill="#244b2b" /><rect x="350" y="169" width="2" height="2" fill="#b28e4f" />
+      <rect x="347" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="344" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1109,10 +1044,10 @@
       <rect x="347" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="344" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-25: 18 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="344" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-25: sem contribuições</title>
       </rect>
-      <path d="M 351 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="350" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="347" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="344" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1127,22 +1062,22 @@
       <rect x="347" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="360" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-28: 16 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="360" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-28: sem contribuições</title>
       </rect>
-      <path d="M 367 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="366" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="363" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="360" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-29: 18 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="360" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-29: sem contribuições</title>
       </rect>
-      <path d="M 367 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="366" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="363" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="360" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2025-12-30: 10 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="360" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2025-12-30: sem contribuições</title>
       </rect>
-      <path d="M 367 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="366" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="363" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="360" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1151,16 +1086,16 @@
       <rect x="363" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="360" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-01: 19 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="360" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-01: sem contribuições</title>
       </rect>
-      <path d="M 367 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="366" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="363" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="360" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-02: 19 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="360" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-02: sem contribuições</title>
       </rect>
-      <path d="M 367 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="366" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="363" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="360" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1169,16 +1104,16 @@
       <rect x="363" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="376" y="126" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-04: 10 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="376" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-04: sem contribuições</title>
       </rect>
-      <rect x="379" y="131" width="8" height="6" fill="#3e7840" /><rect x="381" y="129" width="4" height="2" fill="#244b2b" /><rect x="382" y="137" width="2" height="2" fill="#b28e4f" />
+      <rect x="379" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="376" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-05: 6 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="376" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-05: sem contribuições</title>
       </rect>
-      <rect x="379" y="145" width="3" height="3" fill="#ffffff" /><rect x="380" y="146" width="1" height="1" fill="#e7b843" /><path d="M 386 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="379" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="376" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1187,10 +1122,10 @@
       <rect x="379" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="376" y="174" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-07: 5 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="376" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-07: sem contribuições</title>
       </rect>
-      <rect x="379" y="179" width="8" height="6" fill="#3e7840" /><rect x="381" y="177" width="4" height="2" fill="#244b2b" /><rect x="382" y="185" width="2" height="2" fill="#b28e4f" />
+      <rect x="379" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="376" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1199,64 +1134,64 @@
       <rect x="379" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="376" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-09: 15 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="376" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-09: sem contribuições</title>
       </rect>
-      <path d="M 383 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="382" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="379" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="376" y="222" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-10: 9 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="376" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-10: sem contribuições</title>
       </rect>
-      <rect x="379" y="225" width="3" height="3" fill="#ffffff" /><rect x="380" y="226" width="1" height="1" fill="#e7b843" /><path d="M 386 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="379" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-11: 2 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="392" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-11: sem contribuições</title>
       </rect>
-      <path d="M 395 137 l 2 -4 l 1 4 M 401 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="395" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-12: 3 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="392" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-12: sem contribuições</title>
       </rect>
-      <path d="M 395 153 l 2 -4 l 1 4 M 401 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="395" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-13: 2 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="392" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-13: sem contribuições</title>
       </rect>
-      <path d="M 395 169 l 2 -4 l 1 4 M 401 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="395" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="174" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-14: 7 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="392" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-14: sem contribuições</title>
       </rect>
-      <rect x="395" y="179" width="8" height="6" fill="#3e7840" /><rect x="397" y="177" width="4" height="2" fill="#244b2b" /><rect x="398" y="185" width="2" height="2" fill="#b28e4f" />
+      <rect x="395" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-15: 5 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="392" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-15: sem contribuições</title>
       </rect>
-      <path d="M 395 201 l 2 -4 l 1 4 M 401 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="395" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-16: 6 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="392" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-16: sem contribuições</title>
       </rect>
-      <rect x="395" y="209" width="3" height="3" fill="#ffffff" /><rect x="396" y="210" width="1" height="1" fill="#e7b843" /><path d="M 402 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="395" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="392" y="222" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-17: 1 contribuição · Docker · F-Keller/demo-docker</title>
+      <rect x="392" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-17: sem contribuições</title>
       </rect>
-      <path d="M 395 233 l 2 -4 l 1 4 M 401 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="395" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="408" y="126" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-18: 7 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="408" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-18: sem contribuições</title>
       </rect>
-      <rect x="411" y="131" width="8" height="6" fill="#3e7840" /><rect x="413" y="129" width="4" height="2" fill="#244b2b" /><rect x="414" y="137" width="2" height="2" fill="#b28e4f" />
+      <rect x="411" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="408" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1265,10 +1200,10 @@
       <rect x="411" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="408" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-20: 9 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="408" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-20: sem contribuições</title>
       </rect>
-      <rect x="411" y="161" width="3" height="3" fill="#ffffff" /><rect x="412" y="162" width="1" height="1" fill="#e7b843" /><path d="M 418 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="411" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="408" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1277,16 +1212,16 @@
       <rect x="411" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="408" y="190" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-22: 10 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="408" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-22: sem contribuições</title>
       </rect>
-      <rect x="411" y="193" width="3" height="3" fill="#ffffff" /><rect x="412" y="194" width="1" height="1" fill="#e7b843" /><path d="M 418 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="411" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="408" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-01-23: 5 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="408" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-23: sem contribuições</title>
       </rect>
-      <path d="M 411 217 l 2 -4 l 1 4 M 417 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="411" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="408" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1295,16 +1230,16 @@
       <rect x="411" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="424" y="126" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-01-25: 6 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="424" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-25: sem contribuições</title>
       </rect>
-      <rect x="427" y="131" width="8" height="6" fill="#3e7840" /><rect x="429" y="129" width="4" height="2" fill="#244b2b" /><rect x="430" y="137" width="2" height="2" fill="#b28e4f" />
+      <rect x="427" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="424" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-01-26: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="424" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-01-26: sem contribuições</title>
       </rect>
-      <rect x="427" y="145" width="3" height="3" fill="#ffffff" /><rect x="428" y="146" width="1" height="1" fill="#e7b843" /><path d="M 434 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="427" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="424" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1343,10 +1278,10 @@
       <rect x="443" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="440" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-02: 4 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="440" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-02: sem contribuições</title>
       </rect>
-      <rect x="443" y="147" width="8" height="6" fill="#3e7840" /><rect x="445" y="145" width="4" height="2" fill="#244b2b" /><rect x="446" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="443" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="440" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1355,10 +1290,10 @@
       <rect x="443" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="440" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-04: 8 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="440" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-04: sem contribuições</title>
       </rect>
-      <path d="M 447 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="446" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="443" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="440" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1367,10 +1302,10 @@
       <rect x="443" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="440" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-02-06: 5 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="440" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-06: sem contribuições</title>
       </rect>
-      <rect x="443" y="209" width="3" height="3" fill="#ffffff" /><rect x="444" y="210" width="1" height="1" fill="#e7b843" /><path d="M 450 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="443" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="440" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1379,10 +1314,10 @@
       <rect x="443" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="456" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-02-08: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="456" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-08: sem contribuições</title>
       </rect>
-      <path d="M 459 137 l 2 -4 l 1 4 M 465 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="459" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="456" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1397,10 +1332,10 @@
       <rect x="459" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="456" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-11: 9 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="456" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-11: sem contribuições</title>
       </rect>
-      <path d="M 463 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="462" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="459" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="456" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1409,40 +1344,40 @@
       <rect x="459" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="456" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-13: 7 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="456" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-13: sem contribuições</title>
       </rect>
-      <rect x="459" y="211" width="8" height="6" fill="#3e7840" /><rect x="461" y="209" width="4" height="2" fill="#244b2b" /><rect x="462" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="459" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="456" y="222" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-02-14: 5 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="456" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-14: sem contribuições</title>
       </rect>
-      <path d="M 459 233 l 2 -4 l 1 4 M 465 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="459" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="472" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-02-15: 3 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="472" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-15: sem contribuições</title>
       </rect>
-      <path d="M 475 137 l 2 -4 l 1 4 M 481 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="475" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="472" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-16: 15 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="472" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-16: sem contribuições</title>
       </rect>
-      <path d="M 479 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="478" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="475" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="472" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-17: 5 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="472" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-17: sem contribuições</title>
       </rect>
-      <path d="M 479 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="478" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="475" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="472" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-18: 14 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="472" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-18: sem contribuições</title>
       </rect>
-      <path d="M 479 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="478" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="475" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="472" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1451,10 +1386,10 @@
       <rect x="475" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="472" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-20: 13 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="472" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-20: sem contribuições</title>
       </rect>
-      <path d="M 479 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="478" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="475" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="472" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1469,40 +1404,40 @@
       <rect x="491" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-23: 9 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="488" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-23: sem contribuições</title>
       </rect>
-      <rect x="491" y="147" width="8" height="6" fill="#3e7840" /><rect x="493" y="145" width="4" height="2" fill="#244b2b" /><rect x="494" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="491" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="158" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-24: 4 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="488" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-24: sem contribuições</title>
       </rect>
-      <rect x="491" y="163" width="8" height="6" fill="#3e7840" /><rect x="493" y="161" width="4" height="2" fill="#244b2b" /><rect x="494" y="169" width="2" height="2" fill="#b28e4f" />
+      <rect x="491" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-02-25: 3 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="488" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-25: sem contribuições</title>
       </rect>
-      <path d="M 491 185 l 2 -4 l 1 4 M 497 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="491" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-26: 13 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="488" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-26: sem contribuições</title>
       </rect>
-      <path d="M 495 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="494" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="491" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-27: 5 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="488" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-27: sem contribuições</title>
       </rect>
-      <path d="M 495 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="494" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="491" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="488" y="222" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-02-28: 7 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="488" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-02-28: sem contribuições</title>
       </rect>
-      <path d="M 495 224 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="494" y="227" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="491" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="504" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1511,10 +1446,10 @@
       <rect x="507" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="504" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-02: 6 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="504" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-02: sem contribuições</title>
       </rect>
-      <path d="M 511 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="510" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="507" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="504" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1523,16 +1458,16 @@
       <rect x="507" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="504" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-03-04: 1 contribuição · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="504" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-04: sem contribuições</title>
       </rect>
-      <path d="M 507 185 l 2 -4 l 1 4 M 513 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="507" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="504" y="190" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-05: 6 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="504" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-05: sem contribuições</title>
       </rect>
-      <rect x="507" y="195" width="8" height="6" fill="#3e7840" /><rect x="509" y="193" width="4" height="2" fill="#244b2b" /><rect x="510" y="201" width="2" height="2" fill="#b28e4f" />
+      <rect x="507" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="504" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1583,34 +1518,34 @@
       <rect x="523" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="520" y="222" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-14: 5 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="520" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-14: sem contribuições</title>
       </rect>
-      <rect x="523" y="227" width="8" height="6" fill="#3e7840" /><rect x="525" y="225" width="4" height="2" fill="#244b2b" /><rect x="526" y="233" width="2" height="2" fill="#b28e4f" />
+      <rect x="523" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="536" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-15: 13 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="536" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-15: sem contribuições</title>
       </rect>
-      <path d="M 543 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="542" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="539" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="536" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-03-16: 8 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="536" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-16: sem contribuições</title>
       </rect>
-      <rect x="539" y="145" width="3" height="3" fill="#ffffff" /><rect x="540" y="146" width="1" height="1" fill="#e7b843" /><path d="M 546 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="539" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="536" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-17: 5 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="536" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-17: sem contribuições</title>
       </rect>
-      <path d="M 543 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="542" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="539" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="536" y="174" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-18: 14 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="536" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-18: sem contribuições</title>
       </rect>
-      <rect x="539" y="179" width="8" height="6" fill="#3e7840" /><rect x="541" y="177" width="4" height="2" fill="#244b2b" /><rect x="542" y="185" width="2" height="2" fill="#b28e4f" />
+      <rect x="539" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="536" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1619,10 +1554,10 @@
       <rect x="539" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="536" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-03-20: 7 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="536" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-20: sem contribuições</title>
       </rect>
-      <rect x="539" y="211" width="8" height="6" fill="#3e7840" /><rect x="541" y="209" width="4" height="2" fill="#244b2b" /><rect x="542" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="539" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="536" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1655,16 +1590,16 @@
       <rect x="555" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="552" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-03-26: 4 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="552" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-26: sem contribuições</title>
       </rect>
-      <path d="M 555 201 l 2 -4 l 1 4 M 561 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="555" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="552" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-03-27: 4 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="552" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-03-27: sem contribuições</title>
       </rect>
-      <path d="M 555 217 l 2 -4 l 1 4 M 561 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="555" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="552" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1703,10 +1638,10 @@
       <rect x="571" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="568" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-04-03: 2 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="568" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-03: sem contribuições</title>
       </rect>
-      <path d="M 571 217 l 2 -4 l 1 4 M 577 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="571" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="568" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1721,22 +1656,22 @@
       <rect x="587" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="584" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-06: 19 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="584" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-06: sem contribuições</title>
       </rect>
-      <path d="M 591 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="590" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="587" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="584" y="158" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-07: 14 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="584" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2026-04-07: 1 contribuição · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
-      <rect x="587" y="163" width="8" height="6" fill="#3e7840" /><rect x="589" y="161" width="4" height="2" fill="#244b2b" /><rect x="590" y="169" width="2" height="2" fill="#b28e4f" />
+      <path d="M 587 169 l 2 -4 l 1 4 M 593 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
-      <rect x="584" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-08: 19 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="584" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-08: sem contribuições</title>
       </rect>
-      <path d="M 591 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="590" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="587" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="584" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1757,22 +1692,22 @@
       <rect x="587" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="600" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-12: 9 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="600" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-12: sem contribuições</title>
       </rect>
-      <path d="M 607 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="606" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="603" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="600" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-13: 12 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="600" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-13: sem contribuições</title>
       </rect>
-      <rect x="603" y="147" width="8" height="6" fill="#3e7840" /><rect x="605" y="145" width="4" height="2" fill="#244b2b" /><rect x="606" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="603" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="600" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-04-14: 6 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="600" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-14: sem contribuições</title>
       </rect>
-      <rect x="603" y="161" width="3" height="3" fill="#ffffff" /><rect x="604" y="162" width="1" height="1" fill="#e7b843" /><path d="M 610 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="603" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="600" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1787,10 +1722,10 @@
       <rect x="603" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="600" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-17: 11 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="600" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-17: sem contribuições</title>
       </rect>
-      <rect x="603" y="211" width="8" height="6" fill="#3e7840" /><rect x="605" y="209" width="4" height="2" fill="#244b2b" /><rect x="606" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="603" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="600" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1800,21 +1735,21 @@
     </g>
     <g>
       <rect x="616" y="126" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-04-19: 2 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+        <title>2026-04-19: 1 contribuição · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
       <path d="M 619 137 l 2 -4 l 1 4 M 625 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
-      <rect x="616" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-04-20: 6 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="616" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-20: sem contribuições</title>
       </rect>
-      <rect x="619" y="145" width="3" height="3" fill="#ffffff" /><rect x="620" y="146" width="1" height="1" fill="#e7b843" /><path d="M 626 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="619" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="616" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-21: 15 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="616" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-21: sem contribuições</title>
       </rect>
-      <path d="M 623 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="622" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="619" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="616" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1835,10 +1770,10 @@
       <rect x="619" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="616" y="222" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-04-25: 5 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="616" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-25: sem contribuições</title>
       </rect>
-      <path d="M 623 224 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="622" y="227" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="619" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="632" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1853,16 +1788,16 @@
       <rect x="635" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="632" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-04-28: 2 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="632" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-28: sem contribuições</title>
       </rect>
-      <path d="M 635 169 l 2 -4 l 1 4 M 641 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="635" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="632" y="174" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-04-29: 9 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="632" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-04-29: sem contribuições</title>
       </rect>
-      <rect x="635" y="177" width="3" height="3" fill="#ffffff" /><rect x="636" y="178" width="1" height="1" fill="#e7b843" /><path d="M 642 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="635" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="632" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1871,10 +1806,10 @@
       <rect x="635" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="632" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-01: 8 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="632" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-01: sem contribuições</title>
       </rect>
-      <rect x="635" y="211" width="8" height="6" fill="#3e7840" /><rect x="637" y="209" width="4" height="2" fill="#244b2b" /><rect x="638" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="635" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="632" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1895,34 +1830,34 @@
       <rect x="651" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="648" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-05-05: 2 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="648" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-05: sem contribuições</title>
       </rect>
-      <path d="M 651 169 l 2 -4 l 1 4 M 657 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="651" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="648" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-06: 6 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="648" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-06: sem contribuições</title>
       </rect>
-      <path d="M 655 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="654" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="651" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="648" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-07: 19 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="648" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-07: sem contribuições</title>
       </rect>
-      <path d="M 655 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="654" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="651" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="648" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-08: 16 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="648" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-08: sem contribuições</title>
       </rect>
-      <path d="M 655 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="654" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="651" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="648" y="222" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-05-09: 9 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="648" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-09: sem contribuições</title>
       </rect>
-      <rect x="651" y="225" width="3" height="3" fill="#ffffff" /><rect x="652" y="226" width="1" height="1" fill="#e7b843" /><path d="M 658 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="651" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="664" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1931,16 +1866,16 @@
       <rect x="667" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="664" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-11: 20 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="664" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
+        <title>2026-05-11: 2 contribuiçãoões · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
-      <path d="M 671 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="670" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="667" y="145" width="3" height="3" fill="#ffffff" /><rect x="668" y="146" width="1" height="1" fill="#e7b843" /><path d="M 674 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
     </g>
     <g>
-      <rect x="664" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-05-12: sem contribuições</title>
+      <rect x="664" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
+        <title>2026-05-12: 2 contribuiçãoões · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
-      <rect x="667" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <rect x="667" y="161" width="3" height="3" fill="#ffffff" /><rect x="668" y="162" width="1" height="1" fill="#e7b843" /><path d="M 674 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
     </g>
     <g>
       <rect x="664" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1961,10 +1896,10 @@
       <rect x="667" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="664" y="222" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-05-16: 4 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="664" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-16: sem contribuições</title>
       </rect>
-      <path d="M 667 233 l 2 -4 l 1 4 M 673 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="667" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="680" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1973,10 +1908,10 @@
       <rect x="683" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="680" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-05-18: 3 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="680" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-18: sem contribuições</title>
       </rect>
-      <path d="M 683 153 l 2 -4 l 1 4 M 689 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="683" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="680" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -1985,10 +1920,10 @@
       <rect x="683" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="680" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-05-20: sem contribuições</title>
+      <rect x="680" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2026-05-20: 1 contribuição · TypeScript · F-Keller/SistemaPromocaoPesquisa</title>
       </rect>
-      <rect x="683" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 683 185 l 2 -4 l 1 4 M 689 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
       <rect x="680" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2015,10 +1950,10 @@
       <rect x="699" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="696" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-25: 8 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="696" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-25: sem contribuições</title>
       </rect>
-      <rect x="699" y="147" width="8" height="6" fill="#3e7840" /><rect x="701" y="145" width="4" height="2" fill="#244b2b" /><rect x="702" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="699" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="696" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2027,22 +1962,22 @@
       <rect x="699" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="696" y="174" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-27: 9 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="696" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-27: sem contribuições</title>
       </rect>
-      <rect x="699" y="179" width="8" height="6" fill="#3e7840" /><rect x="701" y="177" width="4" height="2" fill="#244b2b" /><rect x="702" y="185" width="2" height="2" fill="#b28e4f" />
+      <rect x="699" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="696" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-05-28: 3 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="696" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-28: sem contribuições</title>
       </rect>
-      <path d="M 699 201 l 2 -4 l 1 4 M 705 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="699" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="696" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-05-29: 8 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="696" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-05-29: sem contribuições</title>
       </rect>
-      <path d="M 703 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="702" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="699" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="696" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2057,16 +1992,16 @@
       <rect x="715" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="712" y="142" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-06-01: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="712" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-01: sem contribuições</title>
       </rect>
-      <path d="M 715 153 l 2 -4 l 1 4 M 721 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="715" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="712" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-02: 2 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="712" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-02: sem contribuições</title>
       </rect>
-      <rect x="715" y="161" width="3" height="3" fill="#ffffff" /><rect x="716" y="162" width="1" height="1" fill="#e7b843" /><path d="M 722 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="715" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="712" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2075,28 +2010,28 @@
       <rect x="715" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="712" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-04: 19 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="712" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-04: sem contribuições</title>
       </rect>
-      <path d="M 719 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="718" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="715" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="712" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-05: 8 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="712" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-05: sem contribuições</title>
       </rect>
-      <rect x="715" y="209" width="3" height="3" fill="#ffffff" /><rect x="716" y="210" width="1" height="1" fill="#e7b843" /><path d="M 722 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="715" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="712" y="222" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-06: 5 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="712" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-06: sem contribuições</title>
       </rect>
-      <path d="M 719 224 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="718" y="227" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="715" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="728" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-07: 9 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="728" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-07: sem contribuições</title>
       </rect>
-      <path d="M 735 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="734" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="731" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="728" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2105,10 +2040,10 @@
       <rect x="731" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="728" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-09: 15 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="728" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-09: sem contribuições</title>
       </rect>
-      <path d="M 735 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="734" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="731" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="728" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2117,16 +2052,16 @@
       <rect x="731" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="728" y="190" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-11: 14 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="728" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-11: sem contribuições</title>
       </rect>
-      <rect x="731" y="195" width="8" height="6" fill="#3e7840" /><rect x="733" y="193" width="4" height="2" fill="#244b2b" /><rect x="734" y="201" width="2" height="2" fill="#b28e4f" />
+      <rect x="731" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="728" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-12: 20 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="728" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-12: sem contribuições</title>
       </rect>
-      <path d="M 735 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="734" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="731" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="728" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2135,40 +2070,40 @@
       <rect x="731" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="126" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-14: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="744" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-14: sem contribuições</title>
       </rect>
-      <rect x="747" y="129" width="3" height="3" fill="#ffffff" /><rect x="748" y="130" width="1" height="1" fill="#e7b843" /><path d="M 754 138 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="747" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-15: 15 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="744" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-15: sem contribuições</title>
       </rect>
-      <rect x="747" y="147" width="8" height="6" fill="#3e7840" /><rect x="749" y="145" width="4" height="2" fill="#244b2b" /><rect x="750" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="747" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-16: 7 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="744" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-16: sem contribuições</title>
       </rect>
-      <rect x="747" y="161" width="3" height="3" fill="#ffffff" /><rect x="748" y="162" width="1" height="1" fill="#e7b843" /><path d="M 754 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="747" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-17: 17 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="744" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-17: sem contribuições</title>
       </rect>
-      <path d="M 751 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="750" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="747" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="190" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-18: 6 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="744" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-18: sem contribuições</title>
       </rect>
-      <rect x="747" y="193" width="3" height="3" fill="#ffffff" /><rect x="748" y="194" width="1" height="1" fill="#e7b843" /><path d="M 754 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="747" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="744" y="206" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-19: 13 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="744" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-19: sem contribuições</title>
       </rect>
-      <rect x="747" y="211" width="8" height="6" fill="#3e7840" /><rect x="749" y="209" width="4" height="2" fill="#244b2b" /><rect x="750" y="217" width="2" height="2" fill="#b28e4f" />
+      <rect x="747" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="744" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2183,40 +2118,40 @@
       <rect x="763" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-22: 20 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="760" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-22: sem contribuições</title>
       </rect>
-      <path d="M 767 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="766" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="763" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-06-23: 2 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="760" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-23: sem contribuições</title>
       </rect>
-      <path d="M 763 169 l 2 -4 l 1 4 M 769 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="763" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-24: 13 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="760" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-24: sem contribuições</title>
       </rect>
-      <path d="M 767 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="766" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="763" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="190" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-06-25: 8 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="760" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-25: sem contribuições</title>
       </rect>
-      <rect x="763" y="193" width="3" height="3" fill="#ffffff" /><rect x="764" y="194" width="1" height="1" fill="#e7b843" /><path d="M 770 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="763" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="206" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-06-26: 1 contribuição · PHP · F-Keller/demo-php</title>
+      <rect x="760" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-26: sem contribuições</title>
       </rect>
-      <path d="M 763 217 l 2 -4 l 1 4 M 769 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="763" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="760" y="222" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-27: 10 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="760" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-27: sem contribuições</title>
       </rect>
-      <path d="M 767 224 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="766" y="227" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="763" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="776" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2225,34 +2160,34 @@
       <rect x="779" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="776" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-29: 4 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="776" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-29: sem contribuições</title>
       </rect>
-      <rect x="779" y="147" width="8" height="6" fill="#3e7840" /><rect x="781" y="145" width="4" height="2" fill="#244b2b" /><rect x="782" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="779" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="776" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-06-30: 5 contribuiçãoões · JavaScript · F-Keller/demo-javascript</title>
+      <rect x="776" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-06-30: sem contribuições</title>
       </rect>
-      <path d="M 783 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="782" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="779" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="776" y="174" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-07-01: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="776" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-01: sem contribuições</title>
       </rect>
-      <path d="M 779 185 l 2 -4 l 1 4 M 785 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="779" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="776" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-02: 15 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="776" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-02: sem contribuições</title>
       </rect>
-      <path d="M 783 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="782" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="779" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="776" y="206" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-03: 14 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="776" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-03: sem contribuições</title>
       </rect>
-      <path d="M 783 208 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="782" y="211" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="779" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="776" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2261,10 +2196,10 @@
       <rect x="779" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="792" y="126" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-05: 8 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="792" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-05: sem contribuições</title>
       </rect>
-      <rect x="795" y="131" width="8" height="6" fill="#3e7840" /><rect x="797" y="129" width="4" height="2" fill="#244b2b" /><rect x="798" y="137" width="2" height="2" fill="#b28e4f" />
+      <rect x="795" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="792" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2279,10 +2214,10 @@
       <rect x="795" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="792" y="174" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-08: 5 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="792" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-08: sem contribuições</title>
       </rect>
-      <rect x="795" y="177" width="3" height="3" fill="#ffffff" /><rect x="796" y="178" width="1" height="1" fill="#e7b843" /><path d="M 802 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="795" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="792" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2297,10 +2232,10 @@
       <rect x="795" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="792" y="222" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-07-11: 2 contribuiçãoões · Docker · F-Keller/demo-docker</title>
+      <rect x="792" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-11: sem contribuições</title>
       </rect>
-      <path d="M 795 233 l 2 -4 l 1 4 M 801 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="795" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="808" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2309,10 +2244,10 @@
       <rect x="811" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="808" y="142" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-13: 10 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="808" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-13: sem contribuições</title>
       </rect>
-      <rect x="811" y="147" width="8" height="6" fill="#3e7840" /><rect x="813" y="145" width="4" height="2" fill="#244b2b" /><rect x="814" y="153" width="2" height="2" fill="#b28e4f" />
+      <rect x="811" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="808" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2321,16 +2256,16 @@
       <rect x="811" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="808" y="174" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-15: 9 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="808" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-15: sem contribuições</title>
       </rect>
-      <rect x="811" y="177" width="3" height="3" fill="#ffffff" /><rect x="812" y="178" width="1" height="1" fill="#e7b843" /><path d="M 818 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="811" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="808" y="190" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-16: 7 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="808" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-16: sem contribuições</title>
       </rect>
-      <path d="M 815 192 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="814" y="195" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="811" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="808" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2339,34 +2274,34 @@
       <rect x="811" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="808" y="222" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-18: 7 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="808" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-18: sem contribuições</title>
       </rect>
-      <rect x="811" y="225" width="3" height="3" fill="#ffffff" /><rect x="812" y="226" width="1" height="1" fill="#e7b843" /><path d="M 818 234 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="811" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="824" y="126" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-19: 16 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="824" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-19: sem contribuições</title>
       </rect>
-      <path d="M 831 128 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="830" y="131" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="827" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="824" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-20: 3 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="824" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-20: sem contribuições</title>
       </rect>
-      <rect x="827" y="145" width="3" height="3" fill="#ffffff" /><rect x="828" y="146" width="1" height="1" fill="#e7b843" /><path d="M 834 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="827" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="824" y="158" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-21: 2 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="824" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-21: sem contribuições</title>
       </rect>
-      <rect x="827" y="161" width="3" height="3" fill="#ffffff" /><rect x="828" y="162" width="1" height="1" fill="#e7b843" /><path d="M 834 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="827" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="824" y="174" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-22: 9 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="824" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-22: sem contribuições</title>
       </rect>
-      <rect x="827" y="177" width="3" height="3" fill="#ffffff" /><rect x="828" y="178" width="1" height="1" fill="#e7b843" /><path d="M 834 186 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="827" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="824" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2381,10 +2316,10 @@
       <rect x="827" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="824" y="222" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-25: 8 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="824" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-25: sem contribuições</title>
       </rect>
-      <rect x="827" y="227" width="8" height="6" fill="#3e7840" /><rect x="829" y="225" width="4" height="2" fill="#244b2b" /><rect x="830" y="233" width="2" height="2" fill="#b28e4f" />
+      <rect x="827" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="840" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2399,28 +2334,28 @@
       <rect x="843" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="840" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-07-28: sem contribuições</title>
+      <rect x="840" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2026-07-28: 1 contribuição · TypeScript · perkup-devs/onewaterv2</title>
       </rect>
-      <rect x="843" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 843 169 l 2 -4 l 1 4 M 849 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
-      <rect x="840" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-07-29: 10 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="840" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-29: sem contribuições</title>
       </rect>
-      <path d="M 847 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="846" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="843" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="840" y="190" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-30: 4 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="840" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-30: sem contribuições</title>
       </rect>
-      <rect x="843" y="193" width="3" height="3" fill="#ffffff" /><rect x="844" y="194" width="1" height="1" fill="#e7b843" /><path d="M 850 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="843" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="840" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-07-31: 10 contribuiçãoões · MySQL · F-Keller/demo-mysql</title>
+      <rect x="840" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-07-31: sem contribuições</title>
       </rect>
-      <rect x="843" y="209" width="3" height="3" fill="#ffffff" /><rect x="844" y="210" width="1" height="1" fill="#e7b843" /><path d="M 850 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="843" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="840" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2435,10 +2370,10 @@
       <rect x="859" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="856" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-08-03: sem contribuições</title>
+      <rect x="856" y="142" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
+        <title>2026-08-03: 2 contribuiçãoões · TypeScript · perkup-devs/onewaterv2</title>
       </rect>
-      <rect x="859" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <rect x="859" y="145" width="3" height="3" fill="#ffffff" /><rect x="860" y="146" width="1" height="1" fill="#e7b843" /><path d="M 866 154 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
     </g>
     <g>
       <rect x="856" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2453,10 +2388,10 @@
       <rect x="859" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="856" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-08-06: 2 contribuiçãoões · PHP · F-Keller/demo-php</title>
+      <rect x="856" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-06: sem contribuições</title>
       </rect>
-      <path d="M 859 201 l 2 -4 l 1 4 M 865 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="859" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="856" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2465,10 +2400,10 @@
       <rect x="859" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="856" y="222" width="14" height="14" fill="#2f9b4a" stroke="#477a43" stroke-width="1">
-        <title>2026-08-08: 8 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="856" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-08: sem contribuições</title>
       </rect>
-      <rect x="859" y="227" width="8" height="6" fill="#3e7840" /><rect x="861" y="225" width="4" height="2" fill="#244b2b" /><rect x="862" y="233" width="2" height="2" fill="#b28e4f" />
+      <rect x="859" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="872" y="126" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2483,10 +2418,10 @@
       <rect x="875" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="872" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-08-11: sem contribuições</title>
+      <rect x="872" y="158" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
+        <title>2026-08-11: 1 contribuição · TypeScript · perkup-devs/onewaterv2</title>
       </rect>
-      <rect x="875" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 875 169 l 2 -4 l 1 4 M 881 170 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
     </g>
     <g>
       <rect x="872" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2495,10 +2430,10 @@
       <rect x="875" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="872" y="190" width="14" height="14" fill="#9be96e" stroke="#477a43" stroke-width="1">
-        <title>2026-08-13: 1 contribuição · PHP · F-Keller/demo-php</title>
+      <rect x="872" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-13: sem contribuições</title>
       </rect>
-      <path d="M 875 201 l 2 -4 l 1 4 M 881 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" fill="none" />
+      <rect x="875" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
       <rect x="872" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
@@ -2519,51 +2454,51 @@
       <rect x="891" y="135" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="888" y="142" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
-        <title>2026-08-17: sem contribuições</title>
+      <rect x="888" y="142" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
+        <title>2026-08-17: 4 contribuiçãoões · JavaScript · F-Keller/F-Keller</title>
       </rect>
-      <rect x="891" y="151" width="2" height="3" fill="#8fbe64" opacity=".45" />
+      <path d="M 895 144 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="894" y="147" width="2" height="5" fill="#ffffff" opacity=".75" />
     </g>
     <g>
-      <rect x="888" y="158" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-08-18: 20 contribuiçãoões · Python · F-Keller/demo-python</title>
+      <rect x="888" y="158" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-18: sem contribuições</title>
       </rect>
-      <path d="M 895 160 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="894" y="163" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="891" y="167" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="888" y="174" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-08-19: 14 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="888" y="174" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-19: sem contribuições</title>
       </rect>
-      <path d="M 895 176 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="894" y="179" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="891" y="183" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="888" y="190" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-08-20: 7 contribuiçãoões · React · F-Keller/demo-react</title>
+      <rect x="888" y="190" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-20: sem contribuições</title>
       </rect>
-      <rect x="891" y="193" width="3" height="3" fill="#ffffff" /><rect x="892" y="194" width="1" height="1" fill="#e7b843" /><path d="M 898 202 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="891" y="199" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="888" y="206" width="14" height="14" fill="#55c75d" stroke="#477a43" stroke-width="1">
-        <title>2026-08-21: 4 contribuiçãoões · TypeScript · F-Keller/demo-typescript</title>
+      <rect x="888" y="206" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-21: sem contribuições</title>
       </rect>
-      <rect x="891" y="209" width="3" height="3" fill="#ffffff" /><rect x="892" y="210" width="1" height="1" fill="#e7b843" /><path d="M 898 218 l 1 -5 l 2 5" stroke="#477a43" stroke-width="1" />
+      <rect x="891" y="215" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
     <g>
-      <rect x="888" y="222" width="14" height="14" fill="#176b3a" stroke="#477a43" stroke-width="1">
-        <title>2026-08-22: 19 contribuiçãoões · Laravel · F-Keller/demo-laravel</title>
+      <rect x="888" y="222" width="14" height="14" fill="#dbe8b8" stroke="#477a43" stroke-width="1">
+        <title>2026-08-22: sem contribuições</title>
       </rect>
-      <path d="M 895 224 l 4 5 l -4 5 l -4 -5 z" fill="#b7e1e7" stroke="#ffffff" stroke-width="1" /><rect x="894" y="227" width="2" height="5" fill="#ffffff" opacity=".75" />
+      <rect x="891" y="231" width="2" height="3" fill="#8fbe64" opacity=".45" />
     </g>
       <g opacity="0">
-    <rect x="102" y="172" width="18" height="18" fill="none" stroke="#ffffff" stroke-width="2" />
-    <rect x="105" y="175" width="12" height="12" fill="none" stroke="#e7b843" stroke-width="2" />
-    <text x="111" y="184" fill="#111827" font-size="9" font-weight="900" text-anchor="middle">!</text>
+    <rect x="662" y="156" width="18" height="18" fill="none" stroke="#ffffff" stroke-width="2" />
+    <rect x="665" y="159" width="12" height="12" fill="none" stroke="#e7b843" stroke-width="2" />
+    <text x="671" y="168" fill="#111827" font-size="9" font-weight="900" text-anchor="middle">!</text>
     <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.1684;0.1704;0.2158;0.2178;1" />
     <animateTransform attributeName="transform" type="scale" additive="sum" dur="1s" repeatCount="indefinite" values="1;1.12;1" />
   </g><g opacity="0">
-    <rect x="70" y="156" width="18" height="18" fill="none" stroke="#ffffff" stroke-width="2" />
-    <rect x="73" y="159" width="12" height="12" fill="none" stroke="#e7b843" stroke-width="2" />
-    <text x="79" y="168" fill="#111827" font-size="9" font-weight="900" text-anchor="middle">!</text>
+    <rect x="886" y="140" width="18" height="18" fill="none" stroke="#ffffff" stroke-width="2" />
+    <rect x="889" y="143" width="12" height="12" fill="none" stroke="#e7b843" stroke-width="2" />
+    <text x="895" y="152" fill="#111827" font-size="9" font-weight="900" text-anchor="middle">!</text>
     <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.5684;0.5704;0.6158;0.6178;1" />
     <animateTransform attributeName="transform" type="scale" additive="sum" dur="1s" repeatCount="indefinite" values="1;1.12;1" />
   </g>
@@ -2601,7 +2536,7 @@
         <animate attributeName="opacity" dur=".36s" repeatCount="indefinite" values="0;1;0" />
       </g>
     </g>
-        <animateMotion dur="38s" repeatCount="indefinite" path="M 0 0 L 16 0 L 32 0 L 48 -16 L 64 -32 L 80 -16 L 96 -16 L 112 -16 L 128 -16 L 144 -32 L 160 -32 L 176 -16 L 192 -32 L 208 -48 L 224 -48 L 240 -48 L 256 -32 L 272 -48 L 288 -48 L 304 -48 L 320 -48 L 336 -48 L 352 -48 L 368 -48 L 384 -32 L 400 -16 L 416 -16 L 432 -16 L 448 -32 L 464 -16 L 480 -16 L 496 -16 L 512 -32 L 528 -32 L 544 -32 L 560 -32 L 576 -16 L 592 -16 L 608 -16 L 624 -32 L 640 -32 L 656 -32 L 672 -48 L 688 -48 L 704 -48 L 720 -32 L 736 -32 L 752 -32 L 768 -32 L 784 -32 L 800 -32 L 816 -16 L 832 -16" calcMode="linear" />
+        <animateMotion dur="38s" repeatCount="indefinite" path="M 0 0 L 16 16 L 32 32 L 48 16 L 64 0 L 80 0 L 96 0 L 112 0 L 128 0 L 144 0 L 160 16 L 176 32 L 192 16 L 208 0 L 224 -16 L 240 -32 L 256 -48 L 272 -48 L 288 -48 L 304 -48 L 320 -48 L 336 -48 L 352 -48 L 368 -32 L 384 -32 L 400 -32 L 416 -48 L 432 -48 L 448 -32 L 464 -32 L 480 -32 L 496 -32 L 512 -48 L 528 -48 L 544 -48 L 560 -48 L 576 -48 L 592 -48 L 608 -32 L 624 -16 L 640 -16 L 656 -16 L 672 -16 L 688 -16 L 704 -16 L 720 -16 L 736 -16 L 752 -32 L 768 -32 L 784 -16 L 800 -32 L 816 -16 L 832 -32" calcMode="linear" />
       </g>
     </g>
 
@@ -2613,23 +2548,15 @@
 
     <rect x="28" y="332" width="904" height="68" rx="8" fill="#fff8dc" stroke="#38463a" stroke-width="3" />
     <text x="47" y="355" fill="#253025" font-size="12" font-weight="800">AVENTURA DE F-KELLER</text>
-    <text x="47" y="375" fill="#647064" font-size="10">1.575 contribuições · 185 dias ativos · companheiro: OCTOCAT</text>
+    <text x="47" y="375" fill="#647064" font-size="10">17 contribuições · 11 dias ativos · companheiro: OCTOCAT</text>
     <g transform="translate(530 345)">
-      <rect width="10" height="10" fill="#ef3340" stroke="#2f3d2e" />
-      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">Laravel</text>
-      <text x="15" y="23" fill="#647064" font-size="7">279 commits</text>
+      <rect width="10" height="10" fill="#3178c6" stroke="#2f3d2e" />
+      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">TypeScri…</text>
+      <text x="15" y="23" fill="#647064" font-size="7">12 commits</text>
     </g><g transform="translate(626 345)">
-      <rect width="10" height="10" fill="#2496ed" stroke="#2f3d2e" />
-      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">Docker</text>
-      <text x="15" y="23" fill="#647064" font-size="7">229 commits</text>
-    </g><g transform="translate(722 345)">
-      <rect width="10" height="10" fill="#3572a5" stroke="#2f3d2e" />
-      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">Python</text>
-      <text x="15" y="23" fill="#647064" font-size="7">226 commits</text>
-    </g><g transform="translate(818 345)">
-      <rect width="10" height="10" fill="#777bb4" stroke="#2f3d2e" />
-      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">PHP</text>
-      <text x="15" y="23" fill="#647064" font-size="7">192 commits</text>
+      <rect width="10" height="10" fill="#f1e05a" stroke="#2f3d2e" />
+      <text x="15" y="9" fill="#253025" font-size="8" font-weight="700">JavaScri…</text>
+      <text x="15" y="23" fill="#647064" font-size="7">3 commits</text>
     </g>
     <text x="47" y="392" fill="#647064" font-size="8">Cada encontro usa a tecnologia predominante nos commits daquele dia. A sequência muda na atualização diária.</text>
 
@@ -2654,7 +2581,7 @@
     <ellipse cx="230" cy="314" rx="132" ry="31" fill="#1a2b1d" opacity=".24" />
 
     <g transform="translate(655 80) scale(2.2)" filter="url(#pixel-shadow)">
-      <g><rect x="20" y="10" width="26" height="34" fill="#111827" /><rect x="16" y="17" width="34" height="20" fill="#ef3340" /><rect x="24" y="6" width="6" height="10" fill="#8d111b" /><rect x="39" y="4" width="6" height="12" fill="#8d111b" /><rect x="23" y="22" width="5" height="5" fill="#ffffff" /><rect x="40" y="22" width="5" height="5" fill="#ffffff" /><rect x="27" y="23" width="2" height="3" fill="#111827" /><rect x="41" y="23" width="2" height="3" fill="#111827" /><path d="M 17 32 h -10 v 15 h 14 M 49 29 h 9 v 17 h -14" fill="none" stroke="#111827" stroke-width="6" /><rect x="23" y="43" width="8" height="12" fill="#111827" /><rect x="38" y="43" width="8" height="12" fill="#111827" /><text x="32" y="39" fill="#111827" font-size="10" font-weight="900" text-anchor="middle">L</text></g>
+      <g><rect x="10" y="9" width="44" height="44" fill="#111827" /><rect x="15" y="14" width="34" height="34" fill="#3178c6" /><rect x="20" y="20" width="24" height="10" fill="#174d82" /><rect x="21" y="34" width="8" height="7" fill="#ffffff" /><rect x="36" y="34" width="8" height="7" fill="#ffffff" /><rect x="14" y="52" width="13" height="7" fill="#111827" /><rect x="37" y="52" width="13" height="7" fill="#111827" /><text x="32" y="39" fill="#111827" font-size="10" font-weight="900" text-anchor="middle">TS</text></g>
       <animateTransform attributeName="transform" type="translate" additive="sum" dur="38s" repeatCount="indefinite" values="0 0;0 0;-5 0;5 0;-4 0;4 0;0 0;0 0" keyTimes="0;0.3163;0.3203;0.3224;0.3245;0.3266;0.3292;1" />
     </g>
 
@@ -2681,18 +2608,18 @@
 
     <g transform="translate(42 36)">
       <rect width="388" height="76" rx="5" fill="#fff8dc" stroke="#38463a" stroke-width="4" />
-      <text x="16" y="25" fill="#1f2521" font-size="15" font-weight="900">LARAVAGON</text>
-      <text x="348" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 16</text>
-      <text x="16" y="43" fill="#647064" font-size="9">LARAVEL · 10/09/2025</text>
+      <text x="16" y="25" fill="#1f2521" font-size="15" font-weight="900">TYPETITAN</text>
+      <text x="348" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 11</text>
+      <text x="16" y="43" fill="#647064" font-size="9">TYPESCRIPT · 12/05/2026</text>
       <text x="17" y="61" fill="#647064" font-size="8">HP</text>
       <rect x="42" y="52" width="325" height="12" fill="#2f3d2e" />
-      <rect x="45" y="55" width="229.68" height="6" fill="#45ad57" />
+      <rect x="45" y="55" width="293.48" height="6" fill="#45ad57" />
     </g>
 
     <g transform="translate(520 246)">
       <rect width="390" height="76" rx="5" fill="#fff8dc" stroke="#38463a" stroke-width="4" />
       <text x="16" y="25" fill="#1f2521" font-size="15" font-weight="900">OCTOCAT</text>
-      <text x="350" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 26</text>
+      <text x="350" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 23</text>
       <text x="16" y="43" fill="#647064" font-size="9">COMPANHEIRO DE F-KELLER</text>
       <text x="17" y="61" fill="#647064" font-size="8">HP</text>
       <rect x="42" y="52" width="325" height="12" fill="#2f3d2e" />
@@ -2712,20 +2639,20 @@
 
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.2229;0.225;0.275;0.2771;1" />
-      <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">UM LARAVAGON SELVAGEM APARECEU!</text>
-      <text x="49" y="382" fill="#647064" font-size="10">LARAVAGON · Laravel · F-Keller/demo-laravel</text>
+      <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">UM TYPETITAN SELVAGEM APARECEU!</text>
+      <text x="49" y="382" fill="#647064" font-size="10">TYPETITAN · TypeScript · F-Keller/SistemaPromocaoPesquisa</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.2755;0.2776;0.3382;0.3403;1" />
       <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">OCTOCAT USOU PULL REQUEST!</text>
-      <text x="49" y="382" fill="#647064" font-size="10">O ataque encontrou 7 commits de Laravel.</text>
+      <text x="49" y="382" fill="#647064" font-size="10">O ataque encontrou 2 commits de TypeScript.</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.3387;0.3408;0.4053;0.4074;1" />
-      <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">SUPER EFETIVO! ROTA API FOI APRENDIDO.</text>
-      <text x="49" y="382" fill="#647064" font-size="10">Dia 10/09/2025 registrado no mapa de contribuições.</text>
+      <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">SUPER EFETIVO! STRICT BEAM FOI APRENDIDO.</text>
+      <text x="49" y="382" fill="#647064" font-size="10">Dia 12/05/2026 registrado no mapa de contribuições.</text>
     </g>
   </g><g opacity="0">
     <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.61;0.6158;0.8105;0.8163;1" />
@@ -2769,17 +2696,17 @@
     <g transform="translate(42 36)">
       <rect width="388" height="76" rx="5" fill="#fff8dc" stroke="#38463a" stroke-width="4" />
       <text x="16" y="25" fill="#1f2521" font-size="15" font-weight="900">SCRIPTZAP</text>
-      <text x="348" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 19</text>
-      <text x="16" y="43" fill="#647064" font-size="9">JAVASCRIPT · 26/08/2025</text>
+      <text x="348" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 14</text>
+      <text x="16" y="43" fill="#647064" font-size="9">JAVASCRIPT · 17/08/2026</text>
       <text x="17" y="61" fill="#647064" font-size="8">HP</text>
       <rect x="42" y="52" width="325" height="12" fill="#2f3d2e" />
-      <rect x="45" y="55" width="165.88" height="6" fill="#45ad57" />
+      <rect x="45" y="55" width="267.96" height="6" fill="#45ad57" />
     </g>
 
     <g transform="translate(520 246)">
       <rect width="390" height="76" rx="5" fill="#fff8dc" stroke="#38463a" stroke-width="4" />
       <text x="16" y="25" fill="#1f2521" font-size="15" font-weight="900">OCTOCAT</text>
-      <text x="350" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 27</text>
+      <text x="350" y="25" fill="#1f2521" font-size="13" font-weight="900" text-anchor="end">LV 24</text>
       <text x="16" y="43" fill="#647064" font-size="9">COMPANHEIRO DE F-KELLER</text>
       <text x="17" y="61" fill="#647064" font-size="8">HP</text>
       <rect x="42" y="52" width="325" height="12" fill="#2f3d2e" />
@@ -2800,19 +2727,19 @@
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.6229;0.625;0.675;0.6771;1" />
       <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">UM SCRIPTZAP SELVAGEM APARECEU!</text>
-      <text x="49" y="382" fill="#647064" font-size="10">SCRIPTZAP · JavaScript · F-Keller/demo-javascript</text>
+      <text x="49" y="382" fill="#647064" font-size="10">SCRIPTZAP · JavaScript · F-Keller/F-Keller</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.6755;0.6776;0.7382;0.7403;1" />
       <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">OCTOCAT USOU PULL REQUEST!</text>
-      <text x="49" y="382" fill="#647064" font-size="10">O ataque encontrou 12 commits de JavaScript.</text>
+      <text x="49" y="382" fill="#647064" font-size="10">O ataque encontrou 4 commits de JavaScript.</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" dur="38s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.7387;0.7408;0.8053;0.8074;1" />
       <text x="49" y="359" fill="#1f2521" font-size="14" font-weight="900">SUPER EFETIVO! ASYNC SHOCK FOI APRENDIDO.</text>
-      <text x="49" y="382" fill="#647064" font-size="10">Dia 26/08/2025 registrado no mapa de contribuições.</text>
+      <text x="49" y="382" fill="#647064" font-size="10">Dia 17/08/2026 registrado no mapa de contribuições.</text>
     </g>
   </g>
   </g>

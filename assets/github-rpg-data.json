@@ -1,57 +1,33 @@
 {
-  "generatedAt": "2026-08-17T20:38:53.899Z",
+  "generatedAt": "2026-08-17T22:02:33.355Z",
   "username": "F-Keller",
-  "source": "demo",
-  "totalContributions": 1575,
-  "activeDays": 185,
+  "source": "github-graphql",
+  "totalContributions": 17,
+  "activeDays": 11,
   "dominantTechnologies": [
     {
-      "name": "Laravel",
-      "commits": 279
-    },
-    {
-      "name": "Docker",
-      "commits": 229
-    },
-    {
-      "name": "Python",
-      "commits": 226
-    },
-    {
-      "name": "PHP",
-      "commits": 192
-    },
-    {
       "name": "TypeScript",
-      "commits": 185
-    },
-    {
-      "name": "MySQL",
-      "commits": 183
-    },
-    {
-      "name": "React",
-      "commits": 171
+      "commits": 12
     },
     {
       "name": "JavaScript",
-      "commits": 110
+      "commits": 3
     }
   ],
   "encounters": [
     {
-      "date": "2025-09-10",
-      "contributionCount": 7,
-      "technology": "Laravel",
-      "creature": "LARAVAGON",
-      "repository": "F-Keller/demo-laravel"
+      "date": "2026-05-12",
+      "contributionCount": 2,
+      "technology": "TypeScript",
+      "creature": "TYPETITAN",
+      "repository": "F-Keller/SistemaPromocaoPesquisa"
     },
     {
-      "date": "2025-08-26",
-      "contributionCount": 12,
+      "date": "2026-08-17",
+      "contributionCount": 4,
       "technology": "JavaScript",
       "creature": "SCRIPTZAP",
-      "repository": "F-Keller/demo-javascript"
+      "repository": "F-Keller/F-Keller"
     }
   ]
 }
